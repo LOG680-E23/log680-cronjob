@@ -1,6 +1,6 @@
-0 0 1 0 0 /home/cronjob.sh http://10.28.0.114:8000/api/v1/snapshot/LOG680-E23/OxgenOS-gr1-Eq01-E23/2023-07-01/2023-07-31 > /var/log/cron
-0 0 1 0 0 /home/cronjob.sh http://10.28.0.114:8000/api/v1/kanban/pandas-dev/pandas/leadtimeDates/2023-07-01/2023-07-31 > /var/log/cron
-0 0 1 0 0 /home/cronjob.sh http://10.28.0.114:8000/api/v1/kanban/pandas-dev/pandas/closedDuringDates/2023-07-01/2023-07-31 > /var/log/cron
-0 0 1 0 0 /home/cronjob.sh http://10.28.0.114:8000/api/v1/pullrequest/webview/webview/createdDuringDates/2023-07-01/2023-07-31 > /var/log/cron
-0 0 1 0 0 /home/cronjob.sh http://10.28.0.114:8000/api/v1/pullrequest/webview/webview/mergedDuringDates/2023-07-01/2023-07-31 > /var/log/cron
-0 0 1 0 0 /home/cronjob.sh http://10.28.0.114:8000/api/v1/integration/pandas-dev/pandas/analyseDate/2023-07-01/2023-07-31 > /var/log/cron
+0 0 1 0 0 /home/cronjob.sh http://10.28.0.127:8000/api/v1/snapshot/LOG680-E23/OxgenOS-gr1-Eq01-E23/2023-07-01/2023-07-31 > /var/log/cron
+0 0 1 0 0 /home/cronjob.sh http://10.28.0.127:8000/api/v1/kanban/pandas-dev/pandas/leadtimeDates/2023-07-01/2023-07-31 > /var/log/cron
+0 0 1 0 0 /home/cronjob.sh http://10.28.0.127:8000/api/v1/kanban/pandas-dev/pandas/closedDuringDates/2023-07-01/2023-07-31 > /var/log/cron
+0 0 1 0 0 /home/cronjob.sh http://10.28.0.127:8000/api/v1/pullrequest/webview/webview/createdDuringDates/2023-07-01/2023-07-31 > /var/log/cron
+0 0 1 0 0 /home/cronjob.sh http://10.28.0.127:8000/api/v1/pullrequest/webview/webview/mergedDuringDates/2023-07-01/2023-07-31 > /var/log/cron
+0 0 1 0 0 /home/cronjob.sh http://10.28.0.127:8000/api/v1/integration/pandas-dev/pandas/analyseDate/2023-07-01/2023-07-31 > /var/log/cron
